@@ -1,3 +1,5 @@
 fastapi==0.115.14
 uvicorn==0.35.0
 sqlalchemy
+python-jose
+python-multipart
